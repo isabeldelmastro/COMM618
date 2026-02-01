@@ -18,7 +18,7 @@ Conversely, the number of injuries caused by vehicular accidents did not increas
 
 <img width="600" height="371" alt="Vehicular Incidents from 2005 - 2023" src="https://github.com/user-attachments/assets/140147f7-9cbb-4274-824f-d1c85324b5e0" />
 
-Property damage accidents also decreased significantly during the first year of the pandemic. (Here I need to confirm with an expert opinion that property damage accidents are accidents that do not have injuries or fatalities.) Property damage accidents decreased by 17.3% from 2019 to 2020.
+Property damage accidents also decreased significantly during the first year of the pandemic. (Here I need to confirm with an expert opinion that property damage accidents are accidents that do not have injuries or fatalities.) Property damage accidents decreased by 17.3% from 2019 to 2020. (Once I can confirm what property damage accidents are, then I can refer to them by a different name to refrain from repreating myself.)
 
 **Data Analysis**
 
