@@ -1,0 +1,2 @@
+[Massive trove of Epstein files released by DOJ, including 3 million documents and photos](https://www.cbsnews.com/live-updates/epstein-files-released-doj-2026/)
+Why these stories are data stories: All of them were pulled from datasets released by the DOJ repository. Some of them focus more on the raw data than others, like **DOJ releases another tranche of Epstein Files** and **Justice Dept. realeasing more than 3 million pages, 2,000 videos, and 180,000 images**
