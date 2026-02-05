@@ -22,6 +22,6 @@ Property damage accidents also decreased significantly during the first year of 
 
 **Data Analysis**
 
-Here is the [link](https://docs.google.com/spreadsheets/d/1nGga0jmE3CDTT9_l_3-yWTEk9ZXsuV872TXBdXXti5Q/edit?gid=219215161#gid=219215161) to my data. 
+Here is the [link](https://docs.google.com/spreadsheets/d/1nGga0jmE3CDTT9_l_3-yWTEk9ZXsuV872TXBdXXti5Q/edit?usp=sharing) to my data. 
 
 First, I calculated the percentage of total crashes classified as fatal, injury, or property damage accidents. Then, I verified that those percentages totalled to 100%. There wasn’t anything newsworthy within those calculations, so I decided to calculate the percent change of total crashes, fatal crashes, fatalities, injury crashes, injuries, property damage crashes, licensed drivers, registered vehicles, and population each year from 1999 to 2023. I decided to showcase those percent changes in a line graph so I could visually see when the highest and lowest percent changes in data occurred across all categories. When I found that 2020 had the largest percent decrease in vehicular crashes across all years, I was surprised that the number of vehicular fatalities had increased significantly. I decided to return to the original dataset, and I found that 2020 had the highest number of vehicular fatalities since 2007. This is the only increase in the dataset during the year 2020. Then I began writing my story.
