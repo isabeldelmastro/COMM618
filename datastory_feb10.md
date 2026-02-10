@@ -1,6 +1,6 @@
 **Number of Americans who expect ‘high quality lives’ drops to two-decade low**
 
-For today's data story, I chose an article by the Washington Post, (Number of Americans who expect ‘high quality lives’ drops to two-decade low) [https://www.washingtonpost.com/nation/2026/02/10/americans-optimism-poll/]
+For today's data story, I chose an article by the Washington Post, (Number of Americans who expect ‘high quality lives’ drops to two-decade low)[https://www.washingtonpost.com/nation/2026/02/10/americans-optimism-poll/]
 
 This story pulls data from a survey conducted by Gallup, whose been measuring optimism in Americans since 2008. Their findings found that 6 in 10 people said they expected their lives would be better in the future — about nine percentage points lower than 2020 (the height of the COVID pandemic)
 
