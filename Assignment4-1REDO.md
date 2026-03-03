@@ -1,6 +1,6 @@
 **Assignment 4.1: REDO**
 
-*The ICE Health Service Corps (IHSC) conducts yearly inspections in to ICE detention facilities to make sure that detainees are provided proper medical care. These records can only be accessed through FOIA, but as detenion oversight has been heavily criticized and overhauled throughout 2025, the reports are incredibly valuable to monitor how ICE is overseeing medical care.
+*The ICE Health Service Corps (IHSC) conducts yearly inspections in to ICE detention facilities to make sure that detainees are provided proper medical care. These records can only be accessed through FOIA, but as detention oversight has been heavily criticized and overhauled throughout 2025, the reports are incredibly valuable to monitor how ICE is overseeing medical care.
 
 Note: I could not find the name of the ICE FOIA officer to put with the salutation*
 
