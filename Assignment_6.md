@@ -3,7 +3,7 @@ This is data from the United States Geological Survey: a bureau within the U.S. 
 
 From 2014 to 2024, the number of wildfires incidents in the United States has fluctuated significantly. In 2017 the number of wildfires in United States saw a record high with over 71 thousand incidents. 
 
-Over the next two years, the number of wildfire incidents in the United States dropped 34.47%. This plummet in wildfires was at an all time low due to heavy precipitation — an anomoly that didn't continue in the following years, according to (a report by Science.org)[https://www.science.org/content/article/us-wildfires-plummeted-2019-experts-say-it-won-t-last}.
+Over the next two years, the number of wildfire incidents in the United States dropped 34.47%. This plummet in wildfires was at an all time low due to heavy precipitation — an anomoly that didn't continue in the following years, according to [a report by Science.org](https://www.science.org/content/article/us-wildfires-plummeted-2019-experts-say-it-won-t-last).
 
 The number of wildfires has fluctuated significantly from 2020 - 2024 t with the second highest number of wildfires occuring in 2022 with over 68 thousand incidents before dropping significantly the following year. 
 
