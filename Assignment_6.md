@@ -6,6 +6,6 @@ From 2014 to 2024, the number of wildfires incidents in the United States has fl
 
 Over the next two years, the number of wildfire incidents in the United States dropped 34.47%. This plummet in wildfires was at an all time low due to heavy precipitation — an anomoly that would't continue in the following years, according to [a report by Science.org](https://www.science.org/content/article/us-wildfires-plummeted-2019-experts-say-it-won-t-last).
 
-Since 2019, the number of wildfires has fluctuated significantly. Wildfire incidents increased 30.99% from 2019 to 2022. In fact, according to a report by the National Oceanic and Atmospheric Administrations, drought and high temperatures in 2022 are to blame for another record high of wildfires.
+Since 2019, the number of wildfires has fluctuated significantly. Wildfire incidents increased 30.99% from 2019 to 2022. In fact, according to a [report by the National Oceanic and Atmospheric Administrations](https://www.noaa.gov/noaa-wildfire/wildfire-climate-connection#:~:text=Drought%20and%20persistent%20heat%20set,million%20acres%20burned%20since%202016.), drought and high temperatures in 2022 are to blame for another record high of wildfires.
 
 
