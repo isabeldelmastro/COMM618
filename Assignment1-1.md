@@ -1,12 +1,12 @@
 **Assignment 1.1: [The US-Israeli war with Iran in maps, graphics and images](https://apnews.com/photo-gallery/iran-us-israel-war-conflict-gulf-visuals-8fc2192e3c05d30fd7dad5b18b9743b7)**
 
-The article discusses the quantitative and qualitative impact of the war between the US/Israel and Iran, including a map pinpointing the major strikes by the US/Israel and Iran in the Middle East, a line chart depicting the changes of oil prices from April 1, 2025 to March 3 of htis year, a map of U.S. military positioning across the middle east, and more. 
+The article discusses the quantitative and qualitative impact of the war between the US/Israel and Iran, including a map pinpointing the major strikes by the US/Israel and Iran in the Middle East, a line graph of the changes in oil prices from April 1, 2025 to March 3 of this year, a map of U.S. military positioning across the middle east, and more. 
 
 The first map updates the location of strikes across the Middle East daily, but it is unclear to what degree the authors update other graphics.
 
 Each map, graph, and visual attributes its data to a source without a link.
 
-I like how the story updates the map of strikes, drones and airstrikes daily, allowing viewers to understand the changes in strike location and frequency since the beginning of the war.
+I like how the story updates the map of strikes daily, allowing viewers to understand the changes in strike location and frequency since the beginning of the war.
 
 I also appreciate how the authors include a line graph of the changes in oil prices per barrel since April 2025. Furthermore, I like that the graph allows you to toggle over specific dates to see daily changes of oil prices. 
 
