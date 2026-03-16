@@ -1,11 +1,21 @@
 # Isabel Del Mastro's Final Project Pitch
 
-I read an article recently that CSI Aviation had secured over [$1.2 billion](https://www.ch-aviation.com/news/163660-uss-csi-aviation-secures-over-12bn-in-ice-contracts) in ICE contracts this year. CSI Aviation is a comprehensive global aviation services company that the DHS awarded millions of dollars to last november "FOR ENFORCEMENT AND REMOVAL OPERATIONS UNDER THE ICE AIR PROGRAM," according to the [USA Spending database.](https://www.usaspending.gov/search?hash=57346778951ecb9cd1f050d5b62aefa9) I started to wonder: how many aircraft does CSI Aviation own, how many are used for the purposes of deportation, and how many subcontractors under CSI aviation have flights registered under the FAA? 
+As 2025 deportation flights are highly documented and reported on, I am not able to continue with my original pitch. The data already exists and is heavily reported upon.
 
-I found a [master dataset](https://www.faa.gov/licenses_certificates/aircraft_certification/aircraft_registry/releasable_aircraft_download)  that details records of all U.S. Civil Aircraft maintained by the FAA. I am going to synthesize this data set to track all of the aircraft owned and registered by ICE contractors and subcontractors (CSI Aviation, Global Crossing Airlines, Eastern Air Express) from the last five years, documenting the N-number, date it was registered, and company that registered it. If I find that agregating this data is is too ambitious, I may focus on the last two years. Then, I will document flight departures and arrivals for as many aircraft as I can using a flight log tracker like ADS-B or Open Sky. 
+Instead, I would like to shift my focus to facilities that detain immigrants across the US. In my article, I will compare the spike in deaths in Immigration Customs and Enforcement custody in 2025 with the conversely improved scores given to detention facilities in their inspection reports. I would also like to compare the number of deaths in ICE custody to detention facility inspection scores over the past three years.
 
-With this data, I would like to explore the number of aircraft frequently flying to and from countries where ICE is deporting immigrants. I believe that with a little more research, I can also determine with some level of accuracy the number of flights used for deportations by known ICE Aviation Subcontractors. I would like to compare this data across the past five years in hopes I can give an accurate numerical growth to:
-  A) the number of aircraft that known ICE aviation contractors and subcontractors are flying to and from countries that immigrants are deported to.
-  B) The number of aircraft used for deportations by known ICE aviation contractors and subcontractors.
+This would be an extension of a project that I am working on with the Investigative Reporting Workshop and the Project on Government Oversight, in which we are analyzing detention facility inspection scores over time. Our current project is inspired by an article we published back in January that found that ICE Inspections Plummeted as Detentions Soared in 2025.
 
-  Discovering A) will be easier than discovering B), as it will be difficult to discern definitively which aircraft are used for deportation purposes. However, I believe that after testing my hypothesis, I will find a quantifiable increase of aircraft owned by known ICE aviation contractors and subcontractors traveling to and from countries where immigrants are being deported. 
+Since the beginning of this year, we’ve recorded and scraped all 2023 to 2026 detention facility inspection scores from reports posted to the official ODO ICE Facility Inspections webpage. 
+
+We’ve noticed that detention facility inspection scores have improved significantly over the past three years, despite 2025 being ICE’s deadliest year in two decades, according to an article published by The Guardian. Thirty-two people died in ICE custody: a number that hasn’t been matched since 2004, according to the article.
+
+From 2023 until now, ODO scores detention facilities with grades from Failure, Acceptable/Adequate, Good, and Superior. If a detention facility fails an inspection two years in a row, ICE shuts down detention operations. 
+
+They also record violations or “deficiencies” of ICE national standards (see below).
+
+<img width="491" height="194" alt="Screenshot 2026-03-16 at 3 33 34 PM" src="https://github.com/user-attachments/assets/d29d0556-5bb9-4d5f-8a5f-b8fddb91aa6b" />
+
+*This chart comes from a inspection report. ODO record violatinos or "deficiencies" to create a final facility rating.*
+
+My article will analyze the number of deaths from 2023 until now and compare that analysis to improving detention facility inspection scores. Because detention facility inspection reports use different methodologies every few years, I cannot compare detention facility inspection scores earlier than 2023.
