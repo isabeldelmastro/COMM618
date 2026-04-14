@@ -24,6 +24,8 @@ Nationwide statistics reflect the stark contrast between Adelanto’s facility�
 
 Over 85% of detention facilities received the top two inspection scores: “Good” and  “Superior.” Furthermore, only one detention facility failed its inspection report.
 
+<img width="673" height="392" alt="Screenshot 2026-04-14 at 3 19 20 PM" src="https://github.com/user-attachments/assets/f05c61b0-8dea-4bbb-99bf-269e10d3e9c5" />
+
 The oversight office rates facilities using one of four qualifiers: Superior, Good, Adequate/Acceptable, or Failure, according to FY ICE Detention statistics. The office calculates facility ratings based on the number of “deficiencies” or violations of detention standards, according to Former ICE Senior Official Claire Trickler-McNulty.
 
 If a detention facility violates a disproportionate number of standards, it fails the inspection. Two consecutive failures can result in a detention facility losing its federal funding.
@@ -34,7 +36,7 @@ Yet in recent years, Trickler-McNulty said detention standards use “mushy” l
 
 The analysis by the Project on Government Oversight also found that Superior ratings gradually declined as deaths in ICE custody crept upward from 2022 to 2024. But for the first time since ICE established the facility rating system in 2022, Superior ratings rose with ICE custody deaths in 2025. 
 
-<img width="673" height="392" alt="Screenshot 2026-04-14 at 3 19 20 PM" src="https://github.com/user-attachments/assets/f05c61b0-8dea-4bbb-99bf-269e10d3e9c5" /><img width="713" height="432" alt="Screenshot 2026-04-14 at 3 19 50 PM" src="https://github.com/user-attachments/assets/2d753ed7-21bd-417f-917b-958d278a823b" />
+<img width="713" height="432" alt="Screenshot 2026-04-14 at 3 19 50 PM" src="https://github.com/user-attachments/assets/2d753ed7-21bd-417f-917b-958d278a823b" />
 
 Adam Sawyer is a data expert who’s been compiling detention population data for the publicly accessible Detention Data Reports. He said this change “doesn’t make sense.”
 
