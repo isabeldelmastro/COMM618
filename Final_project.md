@@ -1,12 +1,10 @@
 # The Illusion of Detention Oversight: Inside ICE’s Deadliest Year
 
-DEK: Deaths in ICE custody more than doubled in fiscal year 2025. Despite this, detention facility inspection scores dramatically improved.
+*Deaths in ICE custody more than doubled in fiscal year 2025. But 2025 detention facility inspection scores didn’t plummet as expected — they improved*
 
-What does it mean when deaths in ICE custody skyrocket while inspection scores report that detention facility conditions improved overall?
+By Isabel Del Mastro
 
-Deaths in ICE custody more than doubled in fiscal year 2025. But 2025 detention facility inspection scores didn’t plummet as expected — they improved.
-
-LEAD: Ismael Ayala-Uribe suffered a fever, shivers, and bleeding for three weeks while detained in Adelanto ICE Processing Center before Immigration and Customs Enforcement (ICE) finally transported him to the hospital. 
+Ismael Ayala-Uribe suffered a fever, shivers, and bleeding for three weeks while detained in Adelanto ICE Processing Center before Immigration and Customs Enforcement finally transported him to the hospital. 
 
 He died September 21, 2025, after suffering cardiac arrest, according to a detainee death report released by ICE. 
 
@@ -14,8 +12,7 @@ Ayala-Uribe is one of four people who have died in Adelanto ICE custody over the
 
 Fiscal year 2025 was ICE’s deadliest fiscal year in two decades: 24 people died in ICE custody. As deaths in ICE custody reached an all-time high in fiscal year 2025, detention facility inspection scores didn’t worsen: they improved. Over 85% of detention facilities received above-average scores in FY 2025.
 
-60,311 people are currently being held in ICE detention as of April 4th as a result of Trump’s mass deportation efforts, according to a January report by the American Immigration Council
-and TRAC’s Immigration Dataset. Pitfalls in conditions at detention facilities have bubbled to the surface as a result of the mass deportation effort, including overcrowding, substandard medical care, complaints of abusive conditions, and extensive violations of National Detention Standards at facilities, according to the January report.
+60,311 people are currently being held in ICE detention as of April 4th as a result of Trump’s mass deportation efforts, according to a January report by the American Immigration Council and TRAC’s Immigration Dataset. Pitfalls in conditions at detention facilities have bubbled to the surface as a result of the mass deportation effort, including overcrowding, substandard medical care, complaints of abusive conditions, and extensive violations of National Detention Standards at facilities, according to the January report.
 
 The Office of Detention Oversight within ICE conducts yearly inspections at detention facilities like Adelanto to ensure they uphold National Detention Standards. These standards shape fundamental health and safety conditions for the people held in ICE detention, according to an article by the Project on Government Oversight.
 
@@ -23,9 +20,11 @@ The oversight office gave Adelanto a perfect score for medical care. But in Ayal
 
 Nationwide statistics reflect the stark contrast between Adelanto’s facility’s glowing inspection report and the facility’s spike in custody deaths. 
 
-
+<img width="616" height="367" alt="Screenshot 2026-04-14 at 3 18 14 PM" src="https://github.com/user-attachments/assets/b32ec21c-bfb1-4f8c-a9ec-20055e364f4a" />
 
 Over 85% of detention facilities received the top two inspection scores: “Good” and  “Superior.” Furthermore, only one detention facility failed its inspection report.
+
+<img width="673" height="392" alt="Screenshot 2026-04-14 at 3 19 20 PM" src="https://github.com/user-attachments/assets/f05c61b0-8dea-4bbb-99bf-269e10d3e9c5" /><img width="713" height="432" alt="Screenshot 2026-04-14 at 3 19 50 PM" src="https://github.com/user-attachments/assets/2d753ed7-21bd-417f-917b-958d278a823b" />
 
 
 The oversight office rates facilities using one of four qualifiers: Superior, Good, Adequate/Acceptable, or Failure, according to FY ICE Detention statistics. The office calculates facility ratings based on the number of “deficiencies” or violations of detention standards, according to Former ICE Senior Official Claire Trickler-McNulty.
