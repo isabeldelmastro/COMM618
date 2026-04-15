@@ -42,6 +42,19 @@ Adam Sawyer is a data expert who’s been compiling detention population data fo
 
 “You would expect there to be a negative correlation, a negative relationship between superior ratings and deaths,” said Sawyer.
 
-[Return to Uribe’s Case, using the interview from Adelanto to discuss the detention facility’s conditions. Transition to below] 
+Although Adelanto’s facility ratings didn’t increase with overall detention facility grades, Investigators from Disability Rights California who visited the facility in [July for a monitoring visit](https://www.disabilityrightsca.org/drc-advocacy/investigations/inside-the-adelanto-ice-processing-center) said that the conditions at Adelanto ICE Processing Center are nowhere near “good.”
+
+“If [Adelanto] is what they claim is ‘adequate’ or ‘superior’, I can’t imagine what those other facilities are like,” said Supervising Investigator Paula Sandnoval.
+
+Disability Rights California is one of the few entities in the United States permitted to conduct unannounced inspections into detention facilities to ensure that people are receiving proper accommodations.
+
+However, their monitoring visit in July and internal reports they’ve received from detainees have shed light on the major pitfalls in Adelanto’s conditions. Medical services are either severely delayed or never provided, respiratory issues are widespread, dirty restrooms have caused staff infections, meals are inconsistent and prepared inadequately, and clean clothes have become scarce, according to Sandoval and Senior Attorney Richard Diaz.
+
+Both Diaz and Sandoval agree that oversight into detention facilities is necessary, but it's equally important that oversight reports are accurate.
+
+“It’s very important for the reports to be accurate and exposed. In my opinion, there are a lot of resources and a lot of money being put into people being detained, yet they are not meeting the basic standards,” said Sandoval.
+
+Trickler-McNulty also stressed that accurate oversight is essential to ensure detention facilities are humane.
 
 “The interesting thing about detention is that you’re basically controlling somebody’s entire life, said Trickler-McNulty. “There’s a million ways detention can be bad or miserable or hard. And without really understanding all of the things happening in a facility and doing a robust accounting, certainly conditions can get very bad.”
+
