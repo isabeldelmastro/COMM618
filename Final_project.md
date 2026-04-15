@@ -40,7 +40,7 @@ Yet in recent years, Trickler-McNulty said detention standards use “mushy” l
 
 The analysis by the Project on Government Oversight also found that Superior ratings gradually declined as deaths in ICE custody crept upward from 2022 to 2024. But for the first time since ICE established the facility rating system in 2022, Superior ratings rose with ICE custody deaths in 2025. 
 
-<img width="594" height="407" alt="Screenshot 2026-04-15 at 1 29 12 PM" src="https://github.com/user-attachments/assets/d28e272d-7d95-485c-b77b-54d95bd66592" />
+<p align="center"><img width="594" height="407" alt="Screenshot 2026-04-15 at 1 29 12 PM" src="https://github.com/user-attachments/assets/d28e272d-7d95-485c-b77b-54d95bd66592" /></p>
 
 Adam Sawyer is a data expert who’s been compiling detention population data for the publicly accessible Detention Data Reports. He said this change “doesn’t make sense.”
 
