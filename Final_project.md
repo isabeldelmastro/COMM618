@@ -1,4 +1,4 @@
-# The Illusion of Detention Oversight: Inside ICE’s Deadliest Year
+# <p align="center">The Illusion of Detention Oversight: Inside ICE’s Deadliest Year</p> 
 
 *Deaths in ICE custody more than doubled in fiscal year 2025. But in response, 2025 detention facility inspection scores didn’t plummet as expected — they improved.*
 
