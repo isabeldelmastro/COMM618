@@ -1,3 +1,4 @@
+<img width="598" height="408" alt="Screenshot 2026-04-15 at 1 28 22 PM" src="https://github.com/user-attachments/assets/95025238-5ebd-408a-b0e6-8f6cd5f248db" />
 # The Illusion of Detention Oversight: Inside ICE’s Deadliest Year
 
 *Deaths in ICE custody more than doubled in fiscal year 2025. But in response, 2025 detention facility inspection scores didn’t plummet as expected — they improved.*
@@ -20,11 +21,11 @@ The oversight office gave Adelanto [a perfect score](https://www.ice.gov/doclib/
 
 Nationwide statistics reflect the stark contrast between Adelanto’s facility’s glowing inspection report and the facility’s spike in custody deaths. 
 
-<img width="616" height="367" alt="Screenshot 2026-04-14 at 3 18 14 PM" src="https://github.com/user-attachments/assets/b32ec21c-bfb1-4f8c-a9ec-20055e364f4a" />
+<img width="658" height="407" alt="Screenshot 2026-04-15 at 1 29 44 PM" src="https://github.com/user-attachments/assets/aa54472a-85ac-47ce-9c00-e464cb6c2e08" />
 
 According to Pogo's analysis, over 85% of detention facilities received the top two inspection scores: “Good” and  “Superior.” Furthermore, only one detention facility failed its inspection report.
 
-<img width="673" height="392" alt="Screenshot 2026-04-14 at 3 19 20 PM" src="https://github.com/user-attachments/assets/f05c61b0-8dea-4bbb-99bf-269e10d3e9c5" />
+<img width="632" height="398" alt="Screenshot 2026-04-15 at 1 30 06 PM" src="https://github.com/user-attachments/assets/ef79eed8-bdc4-45af-be0d-c34123da0fa2" />
 
 The oversight office rates facilities using one of four qualifiers: Superior, Good, Adequate/Acceptable, or Failure, according to FY ICE Detention statistics. The office calculates facility ratings based on the number of “deficiencies” or violations of detention standards, according to Former ICE Senior Official Claire Trickler-McNulty.
 
@@ -36,7 +37,7 @@ Yet in recent years, Trickler-McNulty said detention standards use “mushy” l
 
 The analysis by the Project on Government Oversight also found that Superior ratings gradually declined as deaths in ICE custody crept upward from 2022 to 2024. But for the first time since ICE established the facility rating system in 2022, Superior ratings rose with ICE custody deaths in 2025. 
 
-<img width="713" height="432" alt="Screenshot 2026-04-14 at 3 19 50 PM" src="https://github.com/user-attachments/assets/2d753ed7-21bd-417f-917b-958d278a823b" />
+<img width="594" height="407" alt="Screenshot 2026-04-15 at 1 29 12 PM" src="https://github.com/user-attachments/assets/d28e272d-7d95-485c-b77b-54d95bd66592" />
 
 Adam Sawyer is a data expert who’s been compiling detention population data for the publicly accessible Detention Data Reports. He said this change “doesn’t make sense.”
 
