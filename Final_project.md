@@ -21,11 +21,15 @@ The oversight office gave Adelanto [a perfect score](https://www.ice.gov/doclib/
 
 Nationwide statistics reflect the stark contrast between Adelanto’s facility’s glowing inspection report and the facility’s spike in custody deaths. 
 
+
 <img width="658" height="407" alt="Screenshot 2026-04-15 at 1 29 44 PM" src="https://github.com/user-attachments/assets/aa54472a-85ac-47ce-9c00-e464cb6c2e08" />
+
 
 According to Pogo's analysis, over 85% of detention facilities received the top two inspection scores: “Good” and  “Superior.” Furthermore, only one detention facility failed its inspection report.
 
+
 <img width="632" height="398" alt="Screenshot 2026-04-15 at 1 30 06 PM" src="https://github.com/user-attachments/assets/ef79eed8-bdc4-45af-be0d-c34123da0fa2" />
+
 
 The oversight office rates facilities using one of four qualifiers: Superior, Good, Adequate/Acceptable, or Failure, according to FY ICE Detention statistics. The office calculates facility ratings based on the number of “deficiencies” or violations of detention standards, according to Former ICE Senior Official Claire Trickler-McNulty.
 
